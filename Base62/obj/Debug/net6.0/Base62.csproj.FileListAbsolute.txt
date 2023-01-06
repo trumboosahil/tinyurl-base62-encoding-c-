@@ -1,0 +1,15 @@
+C:\Git\Base62\Base62\bin\Debug\net6.0\Base62.exe
+C:\Git\Base62\Base62\bin\Debug\net6.0\Base62.deps.json
+C:\Git\Base62\Base62\bin\Debug\net6.0\Base62.runtimeconfig.json
+C:\Git\Base62\Base62\bin\Debug\net6.0\Base62.dll
+C:\Git\Base62\Base62\bin\Debug\net6.0\ref\Base62.dll
+C:\Git\Base62\Base62\bin\Debug\net6.0\Base62.pdb
+C:\Git\Base62\Base62\obj\Debug\net6.0\Base62.csproj.AssemblyReference.cache
+C:\Git\Base62\Base62\obj\Debug\net6.0\Base62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Base62\Base62\obj\Debug\net6.0\Base62.AssemblyInfoInputs.cache
+C:\Git\Base62\Base62\obj\Debug\net6.0\Base62.AssemblyInfo.cs
+C:\Git\Base62\Base62\obj\Debug\net6.0\Base62.csproj.CoreCompileInputs.cache
+C:\Git\Base62\Base62\obj\Debug\net6.0\Base62.dll
+C:\Git\Base62\Base62\obj\Debug\net6.0\ref\Base62.dll
+C:\Git\Base62\Base62\obj\Debug\net6.0\Base62.pdb
+C:\Git\Base62\Base62\obj\Debug\net6.0\Base62.genruntimeconfig.cache
